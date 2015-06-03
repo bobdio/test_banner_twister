@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0
+}
+#container {
+    margin: 0 auto;
+    width: 1200px;
+    min-height: 100%;
+    border: 1px solid black;
+}
+
+.article{
+    width: 700px;
+    float: left;
+}
+
+#aside{
+  width: 300px;
+  float: right;
+  height: 500px;
+  border-left: 2px solid black;
+}
+
+#banners{
+    margin-top: 100px;
+    width: 300px;
+}
